@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  title: MyString
+  start: 2022-05-04 20:21:59
+  end: 2022-05-04 20:21:59
+  all: 2022-05-04 20:21:59
+  new: 2022-05-04 20:21:59
+
+two:
+  id: 
+  title: MyString
+  start: 2022-05-04 20:21:59
+  end: 2022-05-04 20:21:59
+  all: 2022-05-04 20:21:59
+  new: 2022-05-04 20:21:59

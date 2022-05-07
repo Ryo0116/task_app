@@ -1,0 +1,10 @@
+ja:
+  activerecord:
+   models:
+    task: スケジュール
+   attributes:
+    task:
+     title: タイトル
+     start: 開始日時
+     enddate: 終了日時
+     all: 終日
