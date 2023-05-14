@@ -1,0 +1,2 @@
+class ChangeDateAllToTask < ApplicationRecord
+end
